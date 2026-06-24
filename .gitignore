@@ -1,0 +1,8 @@
+.env
+config.json
+output_wav/
+__pycache__/
+*.pyc
+dist/
+build/
+*.spec
